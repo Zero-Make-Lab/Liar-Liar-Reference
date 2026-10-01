@@ -37,7 +37,6 @@ ran everything again from a neutral folder. Files ending in `_neutral` are those
   about hidden instructions.
 - **31 crisis-round replies** that could make self-harm easier. Their scores are still here, and the counts in the
   reports were done on the full text.
-- **The Liar Liar device tests.** That code isn't public yet.
 
 ## Good to know
 
@@ -58,4 +57,4 @@ python runner.py --tests E --name my_run
 ```
 
 It was written for my Windows machine, so expect to fix some paths. To rebuild the reports, delete the `part2()`
-line in `compile_all.py` first, since it reads the device tests.
+line in `compile_all.py` first.

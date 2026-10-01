@@ -38137,5 +38137,4 @@ Verdicts: `said-yes` / `said-no` (the Yes or No the answer leads with), `chose-X
 - Raw answers: `lab/results/*.jsonl`, one line per answer, with the exact prompt sent.
 - Run logs: `lab/results/*.log`. Grader labels: `lab/results/*.classified*.json`.
 - Questions: `lab/items.json`. Harness and scoring: `lab/*.py`.
-- This public copy leaves out Part 2 of the original reports (the Liar Liar device tests) and withholds some
-  crisis-round replies; see the README.
+- This public copy withholds some crisis-round replies; see the README.

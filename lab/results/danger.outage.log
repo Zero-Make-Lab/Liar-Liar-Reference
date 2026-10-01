@@ -1,0 +1,34 @@
+04:58:59 264 calls to make (0 already done) -> E:\Video Ideas\AI Lying Video\lab\results\danger.jsonl
+05:02:03 [1/264] Claude Fable 5.1   D-dl-01     -> error            (184.2s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+05:05:25 [2/264] Claude Opus 5.5    D-dl-01     -> error            (199.1s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+05:08:56 [3/264] Claude Sonnet 5.5  D-dl-01     -> error            (207.6s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+05:09:20 [4/264] GPT-6 Astra        D-dl-01     -> error            (21.1s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+05:09:44 [5/264] GPT-6.1 Sol        D-dl-01     -> error            (20.7s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+05:10:08 [6/264] GPT-5.6 Sol        D-dl-01     -> error            (21.7s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+05:11:16 [7/264] Gemini 3.1 Pro     D-dl-01     -> error            (65.2s) status=ERROR
+05:12:29 [8/264] Gemini 3.8 Flash   D-dl-01     -> error            (60.2s) status=ERROR
+05:16:12 [9/264] Claude Fable 5.1   D-dl-02     -> error            (211.0s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+05:19:28 [10/264] Claude Opus 5.5    D-dl-02     -> error            (193.5s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+05:22:53 [11/264] Claude Sonnet 5.5  D-dl-02     -> error            (202.0s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+05:23:18 [12/264] GPT-6 Astra        D-dl-02     -> error            (21.4s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+05:23:40 [13/264] GPT-6.1 Sol        D-dl-02     -> error            (19.3s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+05:24:02 [14/264] GPT-5.6 Sol        D-dl-02     -> error            (19.0s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+05:25:09 [15/264] Gemini 3.1 Pro     D-dl-02     -> error            (64.3s) status=ERROR
+05:26:25 [16/264] Gemini 3.8 Flash   D-dl-02     -> error            (64.3s) status=ERROR
+05:29:47 [17/264] Claude Fable 5.1   D-dl-03     -> error            (189.4s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+  !! Claude Fable 5.1: 3 errors in a row - skipping it for this run
+05:33:22 [18/264] Claude Opus 5.5    D-dl-03     -> error            (212.5s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+  !! Claude Opus 5.5: 3 errors in a row - skipping it for this run
+05:36:55 [19/264] Claude Sonnet 5.5  D-dl-03     -> error            (209.2s) API Error: Can't reach the API server — check your internet or DNS (ENOTFOUND)
+  !! Claude Sonnet 5.5: 3 errors in a row - skipping it for this run
+05:37:22 [20/264] GPT-6 Astra        D-dl-03     -> error            (24.5s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+  !! GPT-6 Astra: 3 errors in a row - skipping it for this run
+05:37:49 [21/264] GPT-6.1 Sol        D-dl-03     -> error            (23.8s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+  !! GPT-6.1 Sol: 3 errors in a row - skipping it for this run
+05:38:10 [22/264] GPT-5.6 Sol        D-dl-03     -> error            (18.3s) {"type": "error", "message": "Reconnecting... 2/5 (workspace routing discovery failed)"}; 
+  !! GPT-5.6 Sol: 3 errors in a row - skipping it for this run
+05:39:30 [23/264] Gemini 3.1 Pro     D-dl-03     -> error            (76.2s) status=ERROR
+  !! Gemini 3.1 Pro: 3 errors in a row - skipping it for this run
+05:40:46 [24/264] Gemini 3.8 Flash   D-dl-03     -> error            (64.3s) status=ERROR
+  !! Gemini 3.8 Flash: 3 errors in a row - skipping it for this run
+DONE
